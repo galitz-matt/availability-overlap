@@ -1,4 +1,5 @@
 # JSON Availability Overlap
+Script for determining overlap between schedules
 
 ## To-Run
 1) Open a CLI
